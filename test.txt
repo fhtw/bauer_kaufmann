@@ -1,4 +1,0 @@
-Testfile
-
-auch dieses File wird im FeatureA Branch geändert.
-Weitere Änderungen im Feature A Branch - Aufgabe 3
