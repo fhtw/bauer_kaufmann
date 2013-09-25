@@ -1,6 +1,0 @@
-hallooooooo Lena & Mate
-
-Die Datei wurde gelöscht und ist jetzt wieder da!
-
-Halloo wir sind jetz im FeatureA Branch!
-Weitere Änderungen im FeatureA Branch - Aufgabe 3.
